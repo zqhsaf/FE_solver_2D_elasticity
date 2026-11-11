@@ -1,0 +1,13 @@
+# MATLAB 自动备份 / 临时文件
+*.asv
+*.autosave
+*.m~
+*.slx.autosave
+
+# MATLAB 编译缓存
+slprj/
+*.mex*
+
+# 系统文件
+Thumbs.db
+.DS_Store
